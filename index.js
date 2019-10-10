@@ -1,9 +1,9 @@
 /*
- * @Description:
+ * @Description: 简易版nodejs爬虫
  * @Author: Evllis
  * @Date: 2019-10-10 09:55:39
  * @LastEditors: Evllis
- * @LastEditTime: 2019-10-10 14:42:38
+ * @LastEditTime: 2019-10-10 14:49:37
  */
 //依赖模块
 const fs = require('fs');

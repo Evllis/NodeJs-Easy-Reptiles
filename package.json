@@ -1,0 +1,28 @@
+{
+    "name": "nodejs_easy_reptiles",
+    "version": "1.0.0",
+    "description": "<!--  * @Description: nodejs爬虫  * @Author: Evllis  * @Date: 2019-10-10 14:30:25  * @LastEditors: Evllis  * @LastEditTime: 2019-10-10 14:30:55  -->",
+    "main": "index.js",
+    "dependencies": {
+        "chalk": "^2.4.2",
+        "cheerio": "^1.0.0-rc.3",
+        "mkdirp": "^0.5.1",
+        "request": "^2.88.0",
+        "request-promise": "^4.2.4"
+    },
+    "devDependencies": {},
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Evllis/NodeJs-Easy-Reptiles.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Evllis/NodeJs-Easy-Reptiles/issues"
+    },
+    "homepage": "https://github.com/Evllis/NodeJs-Easy-Reptiles#readme"
+}
